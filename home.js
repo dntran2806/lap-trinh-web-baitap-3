@@ -6,3 +6,7 @@ function abc() {
 function tim_kiem() {
     return 'a'
 }
+
+function upload() {
+    return 'upload'
+}
